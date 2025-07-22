@@ -1,1 +1,2 @@
  aca va el primer ejercicio.
+ahora si vamos a usar git pull pa'descargar esta info en nuestro repositorio local
